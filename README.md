@@ -18,7 +18,3 @@ I'm a .NET developer with experience in building web applications and a keen int
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladPritamanniy&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
-
-Thanks for visiting my profile! If you have any questions or want to connect, feel free to reach out!
