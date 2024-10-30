@@ -22,9 +22,9 @@ I'm a .NET developer with experience in building web applications and a keen int
 
 ## 📫 Get in Touch
 
-- [LinkedIn](your_link)
-- [Twitter](your_link)
-- Email: your_email@example.com
+- [LinkedIn](https://www.linkedin.com/in/vladyslav-prytamannyi-42831425a/)\
+- [Credly](https://www.credly.com/users/vlad-prytamannyi)
+- Email: pritamanny255@gmail.com
 
 ## 📊 GitHub Stats
 
