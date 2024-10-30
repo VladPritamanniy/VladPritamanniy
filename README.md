@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Vladyslav! 👋
 
-<!--
-**VladPritamanniy/VladPritamanniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a .NET developer with experience in building web applications and a keen interest in DevOps. Currently, I am exploring modern tools and practices like CI/CD, Docker, and AWS.
 
-Here are some ideas to get you started:
+## 💻 Technologies and Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: C#
+- **Technologies**: .NET 8.0, ASP.NET Core, EF Core, PostgreSQL
+- **Tools**: Docker, Jenkins, Travis CI, RabbitMQ, Cloudinary
+- **Cloud Technologies**: AWS EC2, AWS RDS
+
+## 🌱 Currently Learning
+
+- DevOps practices
+- Creating CI/CD pipelines
+- Docker and virtualization
+
+## 📂 Projects
+
+- **[MyWebApp](link_to_repository)**: A minimal API application built with .NET 8.0.
+- **[Clothing Sales Website](link_to_repository)**: A web application with authentication, authorization, and background processing for sending emails.
+
+## 📫 Get in Touch
+
+- [LinkedIn](your_link)
+- [Twitter](your_link)
+- Email: your_email@example.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+Thanks for visiting my profile! If you have any questions or want to connect, feel free to reach out!
